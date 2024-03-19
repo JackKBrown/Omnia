@@ -1,0 +1,1 @@
+The world eater dragon, it laid rest many thousands of years ago dying and becoming the mountain range that was known as Alathoth's spine. The dwarfs made a city, [[Methymaenos]] to guard the body eventually forgetting its purpose and becoming the capital of their kingdoms. Eventually they were raised by the necromancer [[Sayikira]] at the end of the cataclysm [[Utopia Quest]].

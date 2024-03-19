@@ -1,0 +1,1 @@
+God metals are really concentrated parts of a gods power, they're often fused with materials one of the common materials being metal. 

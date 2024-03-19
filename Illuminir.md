@@ -1,0 +1,3 @@
+- doesn't give good advice
+- should adopt Zethe
+- bitey (can see where Luna gets it)

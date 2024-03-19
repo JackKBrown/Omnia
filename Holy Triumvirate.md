@@ -1,0 +1,1 @@
+Refers to the council held between [[The forgotten god]], [[Breithmaehut]], and [[Illuminir]] though it is a bit of a misnomer as this group often held the ear of [[Comasation]] and plenty of the [[Agathions]] 

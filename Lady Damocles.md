@@ -1,0 +1,8 @@
+- Helena Damocles Widower and in charge of the southern Damocles estates
+- Noblewoman with family ties in asguard
+- son caelin damocles
+- husband (henry) was killed near jens by chull after they found a dangerous artifcat
+- interested in archeology and artificery
+- alchemist with wizard dedication
+- 'friend' of  [[Zethe]]
+- 
