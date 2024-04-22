@@ -1,1 +1,1 @@
-an agathion, minor god of metalcrafting skill. Though they pay homage to [[Illuminir]] they have a sort of friendly/ sometimes less friendly rivalry with [[Iraos]] though Iroas often gets the better of them.
+An agathion, minor god of metalcrafting skill. Though they pay homage to [[Illuminir]] they have a sort of friendly/ sometimes less friendly rivalry with [[Iraos]] though Iroas often gets the better of them.
