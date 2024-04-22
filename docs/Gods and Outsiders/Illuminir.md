@@ -1,5 +1,6 @@
 Alignment
 G, doesn’t mind LG and CG but believes they miss the point. Has a strong relationship with N in Ananoris and the cycle of rebirth though believes the point of the cycle is to break out of it something that Ananoris would prefer didn’t happen.
+
 Titles: 
   - Ursa, The Mother Bear
   - Speaker of the Agathions
