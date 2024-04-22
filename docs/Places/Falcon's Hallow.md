@@ -17,7 +17,7 @@ Ultimately, Falcon’s Hollow isn’t the nicest place to live. Many of the buil
 ## Threats
 The forests crawl with kobolds, who often strike out at unwary travelers - especially traveling merchants.Undead have also been a problem recently, with some tying the unliving’s presence to the long ago eruption of Iroas’ Crag, which is now just called The Rend. The leadership is also uncaring, and will not step in to save the people unless there’s something in it for the business of the Lumber Consortium; with kobolds and undead usually only striking out at smaller groups, and not the well guarded caravans of lumber, they don’t care if a few people go missing once or twice a month. Despite the amount of lumber taken from the area, there is still a large wild forest surrounding the area which is filled with violent wildlife; thankfully most do not come near the town, but it does mean anyone unlucky enough to find themselves in the forest may well find their death before the way out.
 
-##Population
+## Population
 Falcon’s Hollow had a total population of 1400, with 95% of these being human, 3% halflings, 1% elves, and 1% other. Changelings are particularly looked down upon - and anyone else who may have a monstrous nature to them. 
 
 Religion is not an important part of Falcon’s Hollow, and besides a tiny group of Iroas worshippers, most people would turn to the Trickster in a pinch.
