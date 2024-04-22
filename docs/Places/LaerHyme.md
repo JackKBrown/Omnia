@@ -36,3 +36,4 @@ To be granted Alumni-ship into the university (this gives you the right )
 
 ## NPCs
 - [[Filigree]]
+- [[Director Edgewater]]
