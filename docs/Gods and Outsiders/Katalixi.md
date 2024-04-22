@@ -1,20 +1,20 @@
-Alignment
+## Alignment
 True Neutral, cares not for Alignment
-Titles:
-The Archivist
-Keeper of Secrets/Knowledge
-Iconography:
+## Titles:
+ - The Archivist
+ - Keeper of Secrets/Knowledge
+## Iconography:
  Katálixi has no symbol or iconography, many people have created their own for the God but there is no official one.
-Associated Outsiders:
-Bookkeepers (Homebrew)
-Associated People:
-Explorers
-Readers and Writers
-Knowledge Seekers
-Tenets:
-To document new discoveries
-Uncovering the truths and mysteries of the world
-Brief Description
+## Associated Outsiders:
+ - Bookkeepers (Homebrew)
+## Associated People:
+ - Explorers
+ - Readers and Writers
+ - Knowledge Seekers
+## Tenets:
+ - To document new discoveries
+ - Uncovering the truths and mysteries of the world
+## Brief Description
 Katálixi is one of the oldest Gods and assumed the role of documenting all things Past and Present, from the commonly known to even the forgotten. They maintain a strict neutrality and refuse to get directly involved in the conflicts of the universe. Their Plane is an infinite library often called The Lexicon Archives, the Library is open to all manners of creatures from all corners of the Universe. Katálixi has become known as the “God of Knowledge” by the people of Omnia due to the vast knowledge in the Library, a title that Katálixi is fond of. While Katálixi believes knowledge and history should be documented and shared they also understand that some of it is too dangerous to be handled carelessly and thus knowledge such as that is sealed and vaulted deep within the Library.
 
 Other Creatures, Gods included, often mistake Katálixi for being able to see and read into the future which is not the case.
