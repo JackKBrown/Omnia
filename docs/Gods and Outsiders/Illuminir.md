@@ -3,6 +3,7 @@ G, doesn’t mind LG and CG but believes they miss the point. Has a strong relat
 Titles: 
   - Ursa, The Mother Bear
   - Speaker of the Agathions
+
 Associated outsiders and races:
 Agathions 
 Kitsune
