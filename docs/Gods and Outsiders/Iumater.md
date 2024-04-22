@@ -2,11 +2,12 @@
 CE. She cares only for her children, as such any alignment more prone to harming then is distasteful typically this makes her dislike any good alignment
 
 ## Titles: 
-The mother of monsters
+  - The Mother of Monsters
 
 
 ## Associated species:
   - Any warped species e.g driders abberations
+  - Drow
 ## Tenets:
   - Create new monsters
   - Convert those who are not monstrous to monstrosities
