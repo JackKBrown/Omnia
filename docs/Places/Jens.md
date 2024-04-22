@@ -1,4 +1,3 @@
-![[Pasted image 20231004201936.png]]
 ## Summary
 A swampy city that was protected from the Calamity by mysterious crystals that sprouted from the ground. Opened up as a place for the misbegotten of society who were turned away from the other cities, Jens is now ran by powerful mob families who mete out their own Justice - often in the fighting pit called "The Maw".
 
