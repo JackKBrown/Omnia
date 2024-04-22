@@ -1,0 +1,1 @@
+The patron city of Pesmaenos, and the controlling power of the Golden Road, the road which allows trade between Asgard and New Methymaenos, Hel is a city built from both self-empowerment and the blood of slaves. A city in which anyone can gamble anything in their possession - including their lives - to win it all. However, as is true in any gambling hall, the house always wins.
