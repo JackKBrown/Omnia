@@ -1,27 +1,27 @@
 ## Summary 
 - Split god from [[Breithmaehut]]
 
-Alignment
+## Alignment
 
 LE with no tolerance for other Entities at all even within its own alignment. Strictly Lawful to the extreme of evil. 
 
-Titles
+## Titles
 
-The Living Machine
-The Divine Form
-The Amalgamated God
-The Six Thousand and First
+ - The Living Machine
+ - The Divine Form
+ - The Amalgamated God
+ - The Six Thousand and First
 
-Associated outsiders 
+## Associated outsiders 
 
 Kytons are the creation of Uber-Seccentium - amalgam beings of flesh and machine whose minds have completely merged with the Living Machine. Upon their call, the Kytons live to assimilate others. This assimilation extends to other outsiders too, upon capture an outsider will be grafted into a kyton. It is theorised that the first kytons were made from inevitable a that sided with uber-seccentium.
 
-Tenets 
+## Tenets 
 
-Rescind oneself and merge with them
-Do not tolerate disorder, freedom, or self expression in any form
+ - Rescind oneself and merge with them
+ - Do not tolerate disorder, freedom, or self expression in any form
 
-Sect of Assimilation
+## Sect of Assimilation
 The sect of Uber-Seccentium who believes that all should be assimilated into their god.
 
 Divine Ability: Strength or Intelligence
@@ -32,7 +32,7 @@ Domains: Perfection, Change, Pain, Abomination, Tyranny
 Alternate Domains: Creation
 Cleric Spells: 2nd: Blood Duplicate, 3rd: Organ Sense, 5th Grisley Growths, 8th All Is One, One Is All
 
-Brief Description
+## Brief Description
 
 When Breithmaehut's power was at its peak of recent history - just after the fall of the Great Drake - they set their multitude minds to seizing the opportunity and expanding their influence in the martial plane. In order to achieve optimal results, they expanded the Council of V̅I̅ to many times its original size, adding new variations of themselves in order to find the correct path. 
 
@@ -44,15 +44,13 @@ It was through this method of “perfection” that Breithmaehut found a method 
 
 Uber-Seccentium grows stronger - its influence not contained to the confines of The Pit as it lives on through the Kytons which escaped the purge, and who now reside in a hidden demiplane just a hair's breadth from the martial plane. As technology advances, so to does their influence as their mind seeps into ever advancing machinery - brilliant Inventors must take great caution that they do not heed ingenious whispers in the night, else they end up part of their next masterpiece.
 
-Innate 
+## Become One (Innate Cantrip)
+target makes a will save, if the target fails they must take the will save again at the end of their following turn.
 
-Cantrip
-target takes a will save, if the target fails they must take the will save again at the end of their following turn.
+Critical success: no effect except a faint taste of iron in the back of the throat
+Success: images of something greater flash through the mind but your psyche fights it off take 1d6 mental damage
+Failure: an inescapable terror fills you as you contemplate how your entire life view might be a lie. you begin to flay your skin trying to peel away the lies 2d6 slashing and become frightened 1
+Critical Failure: a piece of the divine machine appears within the mind, the target is suddenly overwhelmed with a desire to reshape themselves into that form to perfect themselves. They begin flay and mold their own body to better fit the design. As failure but take double damage and Gain drained 1. If the drained value increases to 4, the creature is slain and raises again as a kyton of an equal level or lower as the caster 
 
-critical success: no effect except a faint taste of iron in the back of the throat
-success: images of something greater flash through the mind but your psyche fights it off take 1d6 mental damage
-failure: an inescapable terror fills you as you contemplate how your entire life view might be a lie. you begin to flay your skin trying to peel away the lies 2d6 slashing and become frightened 1
-critical failure: a piece of the divine machine appears within the mind, the target is suddenly overwhelmed with a desire to reshape themselves into that form to perfect themselves. They begin flay and mold their own body to better fit the design. As failure but take double damage and Gain drained 1. If the drained value increases to 4, the creature is slain and raises again as a kyton of an equal level or lower as the caster 
-
-heightened +3 double the damage taken and increase the targets by 2
+Heightened +3 double the damage taken and increase the targets by 2
  
