@@ -1,4 +1,4 @@
-The soulless are the result of the death of the forgotten god, their abrupt fading caused some souls destined for their plane to be damaged, most ended up becoming lost petitioners but an (un)lucky few ended up rejoining the cycle but with a metaphysical scar that prevents them from casting magic. 
+The soulless are the result of the death of the forgotten god
 
 This is a custom versatile Heritage
 ## Rules Entry
