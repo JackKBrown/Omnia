@@ -42,3 +42,5 @@ After the first great expansion Asgard quickly grew overpopulated and in dire ne
 - Officiate Tinswil
 - guard Colswin
 - head guard stormwing
+- King Galrond
+- [[Adeline Ravensun]], the Captain of the Royal Guard
