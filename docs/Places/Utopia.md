@@ -72,7 +72,7 @@ The utopian script is a syllabary where every character represents a syllable bu
 |    KLA    |      Court sanctioned annual rest/holiday       |     ✔     |
 |    LI     |                  Transposition                  |     ✔     |
 |    KNA    |                  Ritual/death                   |     ✔     |
-|           |                      self                       |           |
+|    RE     |                      self                       |           |
 |           |                                                 |           |
 |           |                                                 |           |
 
