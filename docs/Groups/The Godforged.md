@@ -26,10 +26,16 @@ General Rizzet watched these towering golden men of iron leave Asgard's walls; h
 
 He was horrified at what they had become.
 
+## Campaign
+
 --- Campaign lore to be inserted ---
 
-# Summary
+## Summary
 
 The Godforged are a legion of clerics of Breithmaehut who had forged their armour with Divine Flesh, which turned them into superhuman warriors of order infused with lightning. Despite their awesome appearance, they harbour a dark secret - with each wound they take, the Divine Flesh burrows deeper, reparing the wearer but leaving less and less of the person they used to be behind. 
+
+Most see this as a gift, though it has left many warriors mute, or only able to speak in prayer or tongues. When a warrior loses a limb or organ - even something as important as their head - it is replaced or stitched back on with crackles of blue lightning, leaving Divine Flesh in its wake. These unfortunates are called Hallowed Souls, though some have taken to calling them Hollowed Souls in hushed whispered. Such Godforged are easy to spot, as the Divine Flesh has consumed nearly their entire plate. 
+
+Despite their brutal efficiency of the battlefield, they're thought of as celebrated heroes in Asgaurd - though the Hallowed Souls rarely make public appearances, or return to their families. A restriction the clergy considers a mercy. 
 
 After the campaign, Breithmaehut would fully split from Uber-Seccentium, and the Godforged would find themselves on the 'corrupted' side of the fence. The Great Wailing at the gates of Hel was so named because of the sound these warriors made when The Severence occured.
