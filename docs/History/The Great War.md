@@ -1,6 +1,7 @@
 A documentation of the Age of Sigmar narrative game write ups, set in Omnia's past (78AR) in the Sea of Bones. 
 
 Game 1
+
 On the shores of the seaside settlement of Adiseigo - a small offshoot colony of Asgard - a foul tide gathered. Citizens had been tormented by unnatural wailing carried on the waters in the dead of night, and fishing boats had washed up vacant, devoid of both crew and cargo. Seeing this as an opportunity to test their newfound strength, the newly formed Godforged were dispatched to investigate the issue. 
 
 When they arrived, they found Adiseigo beset by ghouls. The citizens had locked themselves into their houses, but their wooden walls wouldn't last long under assault. Worse still, the undead had brought forth a rotting winged beast with claws sharp enough to slice through Breithmaetite and a screech potent enough to rupture organs. The monster had taken to peeling apart houses to let the ghouls flood in, but that quickly stopped as they noticed the encroaching Godforged. With an ear piercing shriek, the undead surged forward and met divine steel with necromantically enhanced claws. 
@@ -10,10 +11,12 @@ Paladin and ghoul were torn asunder as the clash reached its apex, but as Knight
 On the ground, ghoul and Godforged looked to one another and understood - the only way they would survive is by joining forces against the oncoming threat. Paladins held the line as a gargantuan red dragon charged through the town square; the undead tore at its scales whilst the knights stabbed at its underbelly. Ebriham moved to challenge the dragon, sword in hand and heart pounding in his chest; his augmented body was strong, yes, but still no match for the ancient wyrm. The beast narrowed its eyes and seemed to smirk as the oncoming challenge, knowing full well this mortal could do little more than scratch its hide. Sword blow after sword blow, the monster remained unfazed; occasionally it clawed back, but more akin to the way a cat toys with a cornered mouse. While his armour allowed him to keep his vigor - its white metal knitting together his wounds - he knew it was only a matter of time before the dragon stopped playing with its food. It was at that point a terrible roar commanded the attention of the battlefield, and the red wyrm turned its head to see its blue companion overwhelmed by ghoul and paladin alike, injured and forced to retreat. Its indignant shock provided Ebriham the perfect opportunity to stab his blade into the beast's eye; it reeled backwards before taking off, leaving the seaside town and fleeing across the waves once again…
 
 Game 1 - Sons of Drakkon
+
 White hot pain. Khalgorak the fervor let out a Bellow of indignation. How dare this... this... this MORTAL leave a single scratch on his resplendent body. Clawing desperately into the air like a cat struggling to find purchase on a sodden wall Khalgorak could see his foremost General, Nithicin the Storm, laid low ghouls overrunning her body. With a bath of flame he cleared the pests pulling her body to safety. 
 This had not been the victory he had sought, mortals seemingly had some tricks that he was not used to, the necromantic arts for one had advanced considerably since his time how dare they descrate his kin they would burn for this. Then there was those armoured warriors. That armour... He glanced back at the figure in marble and gold, his one good eye burning with rage. The figure looked back, resolve in his eyes. Yes all would burn Especially THAT one!
 
 Game 1 - The Forsaken Fleet
+
 As the crimson dawn broke over the battered settlement of Adiseigo, Captain Darkmoor stood atop the crumbling remnants of a shattered house, surveying the aftermath. The scent of blood hung thick in the air, mingling with the acrid stench of charred wood. His ghouls, their ghastly forms still trembling with the aftershocks of battle, gathered around him, their hunger momentarily sated by the flesh of the fallen.
 
 The battle had been fierce, and the alliance with the Godforged, however fleeting, had been unexpected. Darkmoor’s mind raced, replaying the clash of steel and claw, the roars of dragons, and the desperate cries of mortals. His mount, the monstrous beast that had been torn asunder by the blue dragon, lay in ruins, a testament to the ferocity of their adversaries.
@@ -41,6 +44,7 @@ With that, Captain Darkmoor descended from his perch, his tattered cloak billowi
 The endless quest continued, driven by hunger, hatred, and a glimmer of hope that one day, the Forsaken Fleet might sail free once more.
 
 Game 1 - The Godforged
+
 The men and women of the Godsworn dragged themselves up off the bloodsoaked ground as the dragons and ghouls left. Adiseigo was scarred, but still mostly intact, with the majority of its population alive. Grievous wounds had been healed by the white metal - even replacing lost limbs and organs; the potency of the regeneration was so great that all who fell in battle were able to return home to their families the next day.
 
 Though, the people who returned were not necessarily the same as those who left…
