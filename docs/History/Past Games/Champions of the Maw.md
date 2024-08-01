@@ -9,6 +9,9 @@ After claiming their title, they were attacked by Stratholl; while they defeated
 The Firestarters debated amongst themselves, but decided that they would not accept the wish, and left Abraxos to his post while they became the new gaurdians of the gems. Wilmin was furious with them but didn't attack, instead electing to dissapear into the night as a wanted criminal of the Alm - unwelcome into Jens ever again.
 
 Key Changes:
+
   - The Almion now control the Maw through the new Mawlords, Chazzak, Jennick, Seraphina, and Gnerk
+    
   - The Gems of the Forgotten God are now known about, and the threat of the Eye still remains - while the gems are safe for now, that doesn't mean that others won't come for them
+    
   - Uber-Seccentium's Blood in Jens has been destroyed, and so her presence has severly waned in the area, freeing Jens from her presence
